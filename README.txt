@@ -32,3 +32,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		This was a first attempt at creating some kind of workflow with the creation of branches, but ultimately had no real purpose behind it.
