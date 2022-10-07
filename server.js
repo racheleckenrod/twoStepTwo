@@ -5,7 +5,7 @@ const path = require("path");
 const http = require("http");
 require("dotenv").config({ path: "./config/.env" });
 const PORT = process.env.PORT;
-const PORT2 = process.env.PORT2;
+const PORT2 = 2899;
 app.use(cors())
 const io = require("socket.io")(PORT2, {
   cors: {
