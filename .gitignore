@@ -1,6 +1,7 @@
-productionBranch
 node_modules
 .env
+._.DS_Store
+.DS_Store
 # Logs
 logs
 *.log
