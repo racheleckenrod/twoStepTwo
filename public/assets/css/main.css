@@ -1519,6 +1519,7 @@ input, select, textarea {
 	form input[type="password"],
 	form select,
 	form textarea {
+		-appearance: none;
 		-moz-transition: all .25s ease-in-out;
 		-webkit-transition: all .25s ease-in-out;
 		-ms-transition: all .25s ease-in-out;
