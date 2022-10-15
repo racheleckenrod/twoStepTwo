@@ -77,6 +77,6 @@ Terms
 
 
 It appears that some of the things I dealt with have to do with in this project have to do with my personal accounts
-having been hacked in some way. ???
+having been hacked in some way. ??? Looking like it is a problem with icloud.
 
 
