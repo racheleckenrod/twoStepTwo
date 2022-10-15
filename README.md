@@ -1,6 +1,8 @@
 I assume git will find the other README.md file and add this entry to it. 
 
-this branch is headfix and the README here is/was the txt file I thought I ha seen, but did not create. In it I said I was going to copy/past the contents of it into this file... etc  and I'll go do that now.
+this branch is headfix and the README here is/was the txt file I thought I ha seen,
+but did not create. In it I said I was going to copy/past the contents of it into 
+this file... etc  and I'll go do that now.
 
 
 Escape Velocity by HTML5 UP
@@ -49,17 +51,26 @@ Credits:
 
 		Big thanks to the community of 100devs for all the support.
 
-		Fixing a million detached heads isn't that fun, oh how I wish I had not listened to other people when deleting what I made..
-	this could be part two of finding the heroku branch if it even works that way, looks like this headfix branch I am on does not get pushed to heroku and the heroku/headfix does, or might.. ? i am certainly going to try.
+		Fixing a million detached heads isn't that fun, oh how I wish I had not listened to other 
+		people when deleting what I made..
+	this could be part two of finding the heroku branch if it even works that way, looks like this 
+	headfix branch I am on does not get pushed to heroku and the heroku/headfix does, or might.. ? 
+	i am certainly going to try.
 
 
-Days later I am back with a much more advanced perspective on working with git. I am now noticing that this HEADfix does not include my readme and this readme is the old .txt file. so I am going to make a copy/paste of this text, and put it in a new file that i can only assume at this point will be connected up to the old one whether I like it or not, so just as I b put a txt file up in the FREEDOM branch an hour or so ago now, I am going to double up on READme's in this HEAD fix branch. I have a new deployment already up at heroku of the linked chat site- that really is only temporary anyway....
+Days later I am back with a much more advanced perspective on working with git. I am now noticing that this
+HEADfix does not include my readme and this readme is the old .txt file. so I am going to make a copy/paste 
+of this text, and put it in a new file that i can only assume at this point will be connected up to the old 
+one whether I like it or not, so just as I b put a txt file up in the FREEDOM branch an hour or so ago now, 
+I am going to double up on READme's in this HEAD fix branch. I have a new deployment already up at heroku of
+the linked chat site- that really is only temporary anyway....
 
 I am glad I hung on to all this info so I understand and can choose wisely how to proceed. Removing files here..
 
 ****** end of copy/paste from exsisting README.txt file..****
 
-back to deleting unneeded/wanted file, renaming some to reduce confusion and preparing for the updated chat room and lobby experience.
+back to deleting unneeded/wanted file, renaming some to reduce confusion and preparing for the updated 
+chat room and lobby experience.
 
 the pictures being displayed in the profile page have those bullet point on them in this version
 
